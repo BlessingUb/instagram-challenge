@@ -16,6 +16,47 @@ Your challenge is to build Instagram using Rails. You'll need **users** who can 
 
 Bonus if you can add filters!
 
+## User stories
+```
+As a User 
+i want to sign up to instagram
+so that I can post my pictures
+```
+
+```
+As a User 
+i want to log in to instagram
+so that I can post my picture
+```
+
+```
+As a User 
+i want to log out of instagram
+so that I can retain my privacy
+```
+
+```
+As a User 
+i want to post pictures on my page
+so that I keep a diary of my pictures
+```
+
+```
+As a User 
+i want to to comment on pictures
+so that I can hype myself
+```
+
+```
+As a User 
+i want to like my pictures
+so that I feel happy
+```
+## How I started
+1. Wrote out some user stories
+2. Initialize a new rails project using this comman on the terminal within the desired directory
+  i. rails new my_app -d postgresql
+
 ## How to start
 
 1. Produce some stories, break them down into tasks, and estimate
@@ -39,3 +80,42 @@ end
 You can also lint Javascript, CSS, and ERB — feel free to research this. These
 will help you to train yourself to produce cleaner code — and will often alert
 you to mistakes or mishaps!
+
+# README
+
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things you may want to cover:
+
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
